@@ -7,6 +7,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
+- Please join my patreon here: patreon.com/user?u=121322760 . 
+
 <!---
 Hollander-Lawn/Hollander-Lawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
