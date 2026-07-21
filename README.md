@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Developing a game after I have completed my runtime enviroment
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Owner of Aver Engine
 
 <!---
 Hollander-Lawn/Hollander-Lawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
